@@ -2,14 +2,16 @@
 Repository ini merupakan jawaban dari Technical Assessment 1
 
 ## Requirements used
+OS windows
 Python 3.10.11
 
 ## Installation
-1. git clone https://github.com/friliansa/technical_assessment_1 custom_name_directory
-2. cd custom_name_directory
-3. python technical_assessment_1.py
-4. Input N (banyak bilangan)
-5. Output N bilangan deret aritmatika dengan suku ke-1: 2 dan selisih antar suku: 3
+1. Move to the directory where you would like to perform the installation
+2. run command: "git clone https://github.com/friliansa/technical_assessment_1 custom_name_directory" (clone this repo)
+3. run command: cd custom_name_directory" (move to repo directory)
+4. run command: python technical_assessment_1.py" (run python program)
+5. Input N (banyak bilangan)
+6. Output N bilangan deret aritmatika dengan suku ke-1: 2 dan selisih antar suku: 3
 
 ## Result Screenshot
 
