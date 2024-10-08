@@ -1,5 +1,5 @@
 # Technical Assessment 1
-Repository ini merupakan jawaban dari TECHNICAL ASSESSMENT 1
+Repository ini merupakan jawaban dari Technical Assessment 1
 
 ## Requirements used
 Python 3.10.11
