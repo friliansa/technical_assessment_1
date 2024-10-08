@@ -11,6 +11,6 @@ Python 3.10.11
 4. Input N (banyak bilangan)
 5. Output N bilangan deret aritmatika dengan suku ke-1: 2 dan selisih antar suku: 3
 
-## Screenshot
+## Result Screenshot
 
 ![Screenshot Proyek](assets/image.png)
