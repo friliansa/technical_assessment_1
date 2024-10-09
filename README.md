@@ -2,8 +2,7 @@
 Repository ini merupakan jawaban dari Technical Assessment 1
 
 ## Requirements used
-1. OS windows
-2. Python 3.10.11
+1. Python 3.10.11
 
 ## Installation
 1. Move to the directory where you would like to perform the installation
